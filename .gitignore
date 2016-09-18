@@ -33,7 +33,7 @@ vendor/yiisoft/*
 !vendor/yiisoft/yii2/classes.php
 !vendor/yiisoft/yii2/composer.json
 !vendor/yiisoft/yii2/Yii.php
-vendor/yiisoft/yii2/*
+
 composer.phar
 
 # Mac DS_Store Files
