@@ -27,9 +27,13 @@ vendor/*
 
 vendor/yiisoft/*
 !vendor/yiisoft/extensions.php
+!vendor/yiisoft/yii2-composer/*
+!vendor/yiisoft/yii2
+vendor/yiisoft/yii2/*
+!vendor/yiisoft/yii2/classes.php
+!vendor/yiisoft/yii2/composer.json
+!vendor/yiisoft/yii2/Yii.php
 
-
-# composer itself is not needed
 composer.phar
 
 # Mac DS_Store Files
