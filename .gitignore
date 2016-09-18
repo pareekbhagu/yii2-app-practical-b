@@ -17,13 +17,13 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
-/vendor
+!vendor/
 
 # you can skip this first one if it is not already excluded by prior patterns
 
 
 vendor/*
-!vendor/yiisoft/
+!vendor/yiisoft
 
 vendor/yiisoft/*
 !vendor/yiisoft/extensions.php
